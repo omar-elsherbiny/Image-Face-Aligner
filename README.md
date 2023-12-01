@@ -1,5 +1,5 @@
 # Image-Face-Aligner
-This is A CLI program i made before to try to recreate the iconic selfie every day timelapses over a couple of years but using my own script iinstead of manually editing it in another software
+This is A CLI program i made before to try to recreate the iconic selfie every day timelapses over a couple of years but using my own script instead of manually editing it in another software
 
 The projects uses a venv in order to use a specific version of python with mediapipe and contain all dependencies
 
