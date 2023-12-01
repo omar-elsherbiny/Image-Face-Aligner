@@ -44,6 +44,11 @@ Scripts\activate.bat
 use: ```python3 run.py [command] [options]```
 for each of rename, align and export-gif in this order or just use all
 
+you can close the venv using:
+```bash
+Scripts\deactivate.bat
+```
+
 # Credits and modules used
 - image croppper: Philipp Wagner
 - mediapipe
